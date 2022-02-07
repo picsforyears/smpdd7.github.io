@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="C:\Users\solei\OneDrive\Desktop\digitaldesigncss.css">
+    </head>
+    <body>
+        <img src="C:\Users\solei\OneDrive\Desktop\page1ddw.jpg" alt="" usemap="#page1">
+        <map name="page1">
+            <area target="" alt="" title="" href="" coords="44,165,180,250" shape="rect">
+            <area target="" alt="" title="" href="C:\Users\solei\OneDrive\Desktop\digitaldesignwebsitepage3and4.html" coords="43,320,182,405" shape="rect">
+            <area target="" alt="" title="" href="C:\Users\solei\OneDrive\Desktop\digitaldesignwebsitepage3and4.html" coords="45,479,182,564" shape="rect">
+            <area target="" alt="" title="" href="C:\Users\solei\OneDrive\Desktop\digitaldesignwebsitepage5and6.html" coords="45,632,180,717" shape="rect">
+        </map>
+
+        <img src="C:\Users\solei\OneDrive\Desktop\page2ddw.jpg" alt="" usemap="#page2">
+        <map name="page2">
+            <area shape="rect" coords="447,704,578,759" href="C:\Users\solei\OneDrive\Desktop\digitaldesignwebsitepage3and4.html" alt="">
+        </map>
+    </body>
+</html>
